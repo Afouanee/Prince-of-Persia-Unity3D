@@ -1,0 +1,8 @@
+# Convertir automatiquement les fins de ligne en fonction du système d'exploitation
+* text=auto
+
+# Garder les fichiers shell scripts avec LF
+*.sh text eol=lf
+
+# Garder les fichiers batch scripts avec CRLF
+*.bat text eol=crlf
